@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-1. Install **pyshorteners** module 
+1.Install **pyshorteners** module 
 ```
 pip install pyshorteners
 ```
